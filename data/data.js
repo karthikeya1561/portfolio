@@ -20,12 +20,12 @@ export const introductionData = {
         {
             icon: "fa fa-linkedin", // find other icon in https://fontawesome.com/v4.7/icons/
             nameSocialNetwork: "Linkedin",
-            url: "https://www.linkedin.com/in/vijay-khv-1779a9207/"
+            url: "https://www.linkedin.com/in/ksuryakarthikeya/"
         },
         {
             icon: "fa fa-github-alt",   // find other icon in https://fontawesome.com/v4.7/icons/
             nameSocialNetwork: "Github",
-            url: "https://github.com/vijaykhv"
+            url: "https://github.com/karthikeya1561"
         }
 
 
