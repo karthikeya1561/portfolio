@@ -77,7 +77,7 @@ export const skillsData = [
     },
 
     {
-        img: "https://ibb.co/yh88vdd",  // card image  > insert the svg image in the assets folder
+        img: "assets/sql.svg",  // card image  > insert the svg image in the assets folder
         nameSkill: "SQL"      //  card name
     },
 
@@ -121,19 +121,19 @@ export const projectsData = [
         title: "Exploratory Data Analysis",    // card image  > insert the svg image in the assets folder
         describe: "",
         url: "https://fsp-assessment-certificates.s3-ap-southeast-1.amazonaws.com/KarthikeyaKs-124922538.pdf",  // url of the Github repository
-        img: "https://ibb.co/PGXtT81"//image Project
+        img: "assets/EDA.svg"//image Project
     },
     {
         title: "Data Processing and Visualization",    // card image  > insert the svg image in the assets folder
         describe: "",
         url: "https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Karthikeya%2BKs_6p5xzkmk8w.pdf.pdf",  // url of the Github repository
-        img: "https://ibb.co/3C1Z9K9"//image Project
+        img: "assets/DV.svg"//image Project
     },
     {
         title: "Aquiring Data",    // card image  > insert the svg image in the assets folder
         describe: "",
         url: "https://fsp-assessment-certificates.s3-ap-southeast-1.amazonaws.com/KarthikeyaKs-124919303.pdf",  // url of the Github repository
-        img: "https://ibb.co/Lzj2wWS"//image Project
+        img: "assets/AD.svg"//image Project
     },
 ]
 
